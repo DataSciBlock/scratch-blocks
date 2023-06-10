@@ -1,0 +1,3 @@
+[submodule "scratch-blocks"]
+	path = scratch-blocks
+	url = https://github.com/DataSciBlock/scratch-blocks.git
