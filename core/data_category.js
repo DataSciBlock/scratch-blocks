@@ -531,6 +531,7 @@ Blockly.DataCategory.addCreateButton = function (xmlList, workspace, type) {
       );
     };
   }
+  
   if (type === "DATAFRAME") {
     msg = Blockly.Msg.NEW_DATAFRAME;
     callbackKey = "CREATE_DATAFRAME";
