@@ -345,6 +345,18 @@ Blockly.Msg.DEFAULT_LIST_ITEM = 'thing';
 Blockly.Msg.DELETE_LIST = 'Delete the "%1" list';
 Blockly.Msg.RENAME_LIST = 'Rename list';
 
+// Dataframes
+// @todo Remove these once fully managed by Scratch VM / Scratch GUI
+Blockly.Msg.NEW_DATAFRAME = 'Make a Dataframe';
+Blockly.Msg.NEW_DATAFRAME_TITLE = 'New dataframe name:';
+Blockly.Msg.DATAFRAME_MODAL_TITLE = 'New Dataframe';
+Blockly.Msg.DATAFRAME_ALREADY_EXISTS = 'A dataframe named "%1" already exists.';
+Blockly.Msg.RENAME_DATAFRAME_TITLE = 'Rename all "%1" dataframes to:';
+Blockly.Msg.RENAME_DATAFRAME_MODAL_TITLE = 'Rename Dataframe';
+Blockly.Msg.DEFAULT_DATAFRAME_ITEM = 'thing';
+Blockly.Msg.DELETE_DATAFRAME = 'Delete the "%1" dataframe';
+Blockly.Msg.RENAME_DATAFRAME = 'Rename dataframe';
+
 // Broadcast Messages
 // @todo Remove these once fully managed by Scratch VM / Scratch GUI
 Blockly.Msg.NEW_BROADCAST_MESSAGE = 'New message';
